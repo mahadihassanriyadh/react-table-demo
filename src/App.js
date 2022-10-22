@@ -67,7 +67,6 @@ function App() {
     return (
         <div>
             <Header />
-            <Counter />
             {/* {data?.length} */}
         </div>
     );
